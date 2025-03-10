@@ -4,7 +4,7 @@
 
 - **Founders:** Highest Authority on Synergy -  [Xaze, Square, Jad]
 - **Coordinator:** Oversees specific aspects of Synergy - [Jayarr (Development), Woeny (Community)]
-- **Senior Developer:** Senior member of specific development lane.
+- **Senior Developer:** Senior member of specific development lane. - [BUB]
 - **Developer:** Proven Dev Assistants moved up to full developer.
 - **Dev Assistant:** Newest members of the team.
 
